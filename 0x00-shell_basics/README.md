@@ -1,1 +1,1 @@
-my shell basics read me
+show current working directory
